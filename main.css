@@ -1,0 +1,16 @@
+table {
+  border: solid .1px #000;
+  margin: 1% auto;
+  font-size: 2rem;
+}
+
+
+table * {
+  border-right: solid .1px #000;
+  border-top: solid .1px #000;
+}
+
+th {
+  color: white;
+  background-color: black;
+}
